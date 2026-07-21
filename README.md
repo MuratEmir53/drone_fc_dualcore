@@ -62,6 +62,4 @@ Murat Emir Mamuş - Yazılım Mimarisi & Gömülü Sistemler
 
 Cemil Mete Çonkara - Donanım & Test
 
-Murat Fetih Kaya - Donanım & Test
-
 Not: Bu sistem otonom uçuş algoritmaları geliştirmek, PID teorilerini fiziksel olarak test etmek ve uçuş kontrolcüleri mimarisini (Flight Controller Architecture) öğrenmek amacıyla yapılmış deneysel bir mühendislik projesidir.
